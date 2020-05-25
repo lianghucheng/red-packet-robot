@@ -1,0 +1,10 @@
+# 万能配置文件
+# ----------------------------游戏的配置消息-----------------------------------
+[CfgGameInfo]
+#HallAddress ="ws://139.199.221.33:3660"      #大厅websocket地址
+HallAddress ="ws://192.168.1.8:3665"      #大厅websocket地址
+RobotIndex=1
+RobotNumber=1
+#LogPath="gdmj-robot-log"
+Model="debug"
+Token=["test1", "test2", "test3", "test4", "test5", "test6", "test7", "test8", "test9", "test10", "test11"]
